@@ -11,3 +11,16 @@ Pulsar.
 This is great If I want to do some game-dev in bed, or
 on the go, which is the main intentions of having something
 like this setup.
+
+These devlogs are mostly just comments I have on the
+current development, what I am currently working on,
+or figuring out.
+
+As of right now, the bulk of Text for Precursor is
+actually being held locally in Zettlr
+(a free Obsidian alternative).
+and various small txt files on my main PC.
+
+I might move them to this repo at some point.
+
+Expect to see .tres files though. 

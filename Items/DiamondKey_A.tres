@@ -1,0 +1,48 @@
+[gd_resource type="Resource" script_class="InventoryItemPD" load_steps=10 format=3 uid="uid://bqsqec7nngw3b"]
+
+[ext_resource type="Texture2D" uid="uid://bttj6m78b6odm" path="res://Precursor/Assets/Graphics/HintIcons/Hint_Cog.png" id="1_uwny3"]
+[ext_resource type="Texture2D" uid="uid://clxom1rnn3dew" path="res://Precursor/Assets/Graphics/ItemIcons/DiamondKey_A.png" id="2_j8xnu"]
+[ext_resource type="Resource" uid="uid://gu1buq254o4l" path="res://Precursor/InventoryPD/Items/DiamondKey_Combine.tres" id="3_7jd33"]
+[ext_resource type="Script" path="res://Precursor/InventoryPD/CustomResources/InventorySlotPD.gd" id="4_b06gj"]
+[ext_resource type="Script" path="res://Precursor/InventoryPD/CustomResources/InventoryItemPD.gd" id="5_yjw7n"]
+[ext_resource type="AudioStream" uid="uid://1w0db1u6lv7t" path="res://Precursor/Assets/Audio/Kenney/UiAudio/rollover6.ogg" id="6_gr5ln"]
+[ext_resource type="AudioStream" uid="uid://npav2p2tk10i" path="res://Precursor/Assets/Audio/Kenney/handleSmallLeather.ogg" id="7_ckjhn"]
+[ext_resource type="AudioStream" uid="uid://bnqnuewmntcyp" path="res://Precursor/Assets/Audio/Kenney/UiAudio/error_008.ogg" id="8_fhvid"]
+
+[sub_resource type="Resource" id="Resource_sh87e"]
+script = ExtResource("4_b06gj")
+inventory_item = ExtResource("3_7jd33")
+quantity = null
+
+[resource]
+script = ExtResource("5_yjw7n")
+item_type = 2
+name = "Diamond Half A"
+descpription = "Looks like it's only have of some kind of shape."
+icon = ExtResource("2_j8xnu")
+power = 0.0
+is_stackable = false
+stack_size = 0
+drop_scene = "res://COGITO/PrefabScenes/pickup_diamond_key_a.tscn"
+hint_icon_on_use = ExtResource("1_uwny3")
+hint_text_on_use = "Can't be used by itself."
+sound_use = ExtResource("8_fhvid")
+sound_pickup = ExtResource("7_ckjhn")
+sound_drop = ExtResource("6_gr5ln")
+attribute_name = ""
+attribute_change_amount = 0.0
+primary_use_prompt = ""
+secondary_use_prompt = ""
+charge_max = 0.0
+ammo_item_name = ""
+charge_current = 0.0
+wieldable_range = 0.0
+wieldable_damage = 0.0
+equip_anim = ""
+unequip_anim = ""
+reload_anim = ""
+use_anim = ""
+target_item_combine = "Diamond Half B"
+resulting_item = SubResource("Resource_sh87e")
+discard_after_use = false
+reload_amount = 1

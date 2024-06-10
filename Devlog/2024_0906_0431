@@ -1,0 +1,17 @@
+been busy at work this week but was thinking about enemy design.
+
+The thing that defines if an enemy is hostile is if the bone connection from
+it's torso to it's head remains intact.
+
+a robot might still have arms and legs, but unless it has a head, it won't be
+hostile.
+
+all the code needs to do is check if the connection is intact, and if not,
+change the behavioural profile of the entity.
+
+the connection could weaken (i.e. break loose) at around 50% hp, but it'd
+still remain hostile.
+
+I guess this also means joint connections and also individual body parts have
+ individual health components. (that affect the main health component?)
+ Head, neck, torso, shoulder_joint_L, shoulder_joint_R, arm_L, arm_R etc.

@@ -1,0 +1,5 @@
+Today I've been working on Selection mechanics for Interactible Entities.
+I realized that I wanted a 3D mouse, similar to Black and White 2's mouse that was able to pick up things in the world, but also to interact with a 2D layer like
+an inventory to place those items in.
+
+ I came to the realization that this is what FPS games do when they want a gun to render above other meshes

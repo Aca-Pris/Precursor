@@ -1,0 +1,12 @@
+today I've been working on the 3D mouse
+here's what I'd like it to achieve
+
+the player should be able to pick up the capsule, and fill it with blue energy using the 3D hand/mouse.
+they should then be able to pick up a tree, and this will drain half of the capsule, and maintaining the hold of the tree will drain the second half.
+the goal is to bring the tree to the chipper, and that will convert it into logs,
+the logs can be burned for another source of blue energy, but capsules have to remain in the machine for it to retain energy.
+
+one of the first areas, the player can find the sculptor, allowing them to convert blue energy and clay into minions.
+the minions can be use to cut down trees for example, instead of the player manually having to pick up the trees.
+this results in the creation of additional minions.
+ 

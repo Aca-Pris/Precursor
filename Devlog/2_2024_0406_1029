@@ -1,7 +1,4 @@
-<<<<<<<< HEAD:Devlog/2_2024_0406_1029
-========
 
->>>>>>>> c02368e054578e5d9c3f088f2d1e1a974ee37c11:Devlog/2024_0406_1029
 I'm coming to the realization that I could probably create .tres files for my Entities too?
 - of course it'd not be the exact same.
 - They will also have an icon portrait that I should be putting in the .kra file.

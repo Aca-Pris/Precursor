@@ -1,0 +1,35 @@
+Welcome to Precursor!
+
+this is the first Devlog for Precursor
+It has been in-dev for a while (since 2017)
+and I'm just getting around to making something like this.
+
+I updated my Atom to Pulsar recently, and saw that it had Github integration,
+which is quite good for game-dev on the go.
+
+The game is being made in Godot. but by using .tres files
+I should be able to make or edit item .tres files remotely from Pulsar.
+
+This is great If I want to do some game-dev in bed, or
+on the go, which is the main intentions of having something
+like this setup.
+
+These devlogs are mostly just comments I have on the
+current development, what I am currently working on,
+or figuring out.
+
+As of right now, the bulk of Text for Precursor is
+actually being held locally in Zettlr
+(a free Obsidian alternative).
+and various small txt files on my main PC. (bad)
+
+most of the image icons are currently held in a .kra (Krita) file
+which can be easily converted into a large png TextureAtlas for Godot.
+
+If I ever decide I want to edit that .kra file remotely it'll likely be
+posted here, but for right now
+unless I'm using my laptop, I don't see a purpose in that
+
+I might move them to this repo at some point.
+
+Expect to see .tres files though.

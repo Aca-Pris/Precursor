@@ -1,0 +1,15 @@
+
+I spent today working on a 3D camera that appears in front of both the world
+and the GUI viewports.
+
+i'll need to spend more time tweaking it so that it is in the correct position.
+
+my hope with the 3D camera is that I will be able to access not just 2D gui's
+but also 3D positions.
+
+although I could accomplish some of this with a 2D mouse,
+it's far more limited, picking up a 3D item with a 2D mouse is limited.
+
+I think the end goal is to have a hand that can hold not just world objects.
+but also can be used as a tool, to drop coconuts from a tree, to mine a rock,
+I can see a 3D mouse having some good utility.

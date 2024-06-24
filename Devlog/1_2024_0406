@@ -1,3 +1,54 @@
+Welcome to Precursor!
+
+this is the first Devlog for Precursor
+It has been in-dev for a while (since 2017)
+and I'm just getting around to making something like this.
+
+I updated my Atom to Pulsar recently, and saw that it had Github integration,
+which is quite good for game-dev on the go.
+
+The game is being made in Godot. but by using .tres files
+I should be able to make or edit item .tres files remotely from Pulsar.
+
+This is great If I want to do some game-dev in bed, or
+on the go, which is the main intentions of having something
+like this setup.
+
+These devlogs are mostly just comments I have on the
+current development, what I am currently working on,
+or figuring out.
+
+As of right now, the bulk of Text for Precursor is
+actually being held locally in Zettlr
+(a free Obsidian alternative).
+and various small txt files on my main PC. (bad)
+
+most of the image icons are currently held in a .kra (Krita) file
+which can be easily converted into a large png TextureAtlas for Godot.
+
+If I ever decide I want to edit that .kra file remotely it'll likely be
+posted here, but for right now
+unless I'm using my laptop, I don't see a purpose in that
+
+I might move them to this repo at some point.
+
+Expect to see .tres files though.
+
+----------------------
+
+
+I'm coming to the realization that I could probably create .tres files for my Entities too?
+- of course it'd not be the exact same.
+- They will also have an icon portrait that I should be putting in the .kra file.
+- they could have a description if right clicked
+- having a default sound for entity selection is kinda the main thing I'd like from this.
+
+I think first I should start with an Entity.tres file and give it some defaults and future Entities can extend from that.
+
+--------------------------
+
+
+
 Today I've been working on Selection mechanics for Interactible Entities.
 I realized that I wanted a 3D mouse, similar to Black and White 2's mouse that was able to pick up things in the world, but also to interact with a 2D layer like
 an inventory to place those items in.

@@ -1,0 +1,3 @@
+The great salt sea is what remains of an evaporated ocean. most of the salt has hardened into crystallised rock, whereas in drier areas, salt sweeps the land as a desert.
+
+There is a large pillar of crystallised salt in the [great salt sea](https://nim.miraheze.org/w/index.php?title=Great_salt_sea&action=edit&redlink=1 "Great salt sea (page does not exist)"), it contains an item, the salt must be dissolved in order to obtain the item.

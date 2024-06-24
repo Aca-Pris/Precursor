@@ -1,0 +1,5 @@
+In order for the Sinking Lure to appear, the player must first have caught a Nayan Bass, a Nayan Pike, and an Praelian Catfish inside the Fishing Hole (after the last catch a different sound will play), and has also obtained the Coral Earring.
+
+With all of these accomplished, the Sinking Lure can be found at the northernmost edge of either the east or the west bank inside the Fishing Hole. The player must bobber fish, casting along the wall, until he reels in the Sinking Lure instead of a fish. If the player selects this lure with Prae in the boat, she will say it is illegal and confiscate it. However, it can be reacquired in the same manner it was attained before.
+
+Prae's brother Oro once used a Sinking Lure to catch an Praelian Catfish. Prae also explains the reason they are illegal is because they change the fish's feeding habits, disrupting the balance of the ecosystem. She cites the ban on Sinking Lures, which has been in place for generations, as the reason the area can still be used for fishing after many years

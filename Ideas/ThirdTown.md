@@ -1,0 +1,1 @@
+* eastern section of town is accessible, western section of town is not until much, much later.

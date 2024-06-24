@@ -1,0 +1,1 @@
+* an area that is destroyed forever after picking up the stone. when you leave an area, you permanently close it.

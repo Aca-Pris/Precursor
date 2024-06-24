@@ -1,0 +1,3 @@
+Dried stems, they can be wielded as simple wooden sticks. are primarily used to light torches. Once lit they burn up when a certain amount of time has passed; they may be saved from burning up by putting them away or switching to another item. They can also be used as weapons, although they typically break after the first hit or when struck against a wall. They may be left behind by defeated Plant.
+
+Lit branches can be used to either light torches, or burn objects, being a main mechanic in the first dungeon.

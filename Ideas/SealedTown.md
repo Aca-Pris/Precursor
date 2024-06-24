@@ -1,0 +1,1 @@
+The sealed town is an area that can be visited after the second town. it is a closed area that when entered the player will find very difficult to leave.

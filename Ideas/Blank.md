@@ -1,0 +1,1 @@
+The blade blank is used during the Sealed City questchain, the blank is the only way for the player to obtain a weapon within the walls of the sealed City.

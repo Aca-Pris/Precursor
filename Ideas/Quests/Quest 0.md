@@ -1,0 +1,1 @@
+NPC needs help to retrieve the Plans to repair the Eco vent, if he gets this, it will unlock Eco in the local area. You will also learn how to do basic Eco Vent repairs.

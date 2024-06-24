@@ -1,0 +1,1 @@
+As mysteriously as it arrived, the lum eclipse and it's strange effects that swept Mar had departed, returning the land to normalcy.

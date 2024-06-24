@@ -1,0 +1,1 @@
+Chests are found all over the world of Mar, often containing simple items of basic worth in ages past, with far greater value in the present.

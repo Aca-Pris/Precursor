@@ -1,0 +1,1 @@
+A useless rod which is part of a profession, and as the profession is levelled, the rod can keep being upgraded until it is usable, and then it is extremely powerful.

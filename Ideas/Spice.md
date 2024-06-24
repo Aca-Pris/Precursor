@@ -1,0 +1,1 @@
+he grinding down of certain seeds, roots and leaves into pungent, aromatic powders can transform piles of simple grains. Where once vulnerable to rot, many foods when treated can be preserved for many moons.

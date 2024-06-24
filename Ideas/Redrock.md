@@ -1,0 +1,1 @@
+the dirt from Redrock is very fine, and has slight magnetism, causing it to occasionally stick to equipment. It is possible to tell if a traveller has been nearby due to redrock dirt being visible on the ground.

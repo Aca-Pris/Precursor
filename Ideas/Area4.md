@@ -1,0 +1,1 @@
+a door that is usually always opened at the end of the starting area remains locked if certain conditions are met, opening up another entirely different path instead, which leads here

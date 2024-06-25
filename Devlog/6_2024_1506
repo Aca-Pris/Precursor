@@ -1,0 +1,13 @@
+I was thinking about how a ground pound component might work these last few days
+
+I'd like the player to be able to ground pound only after a successful
+double jump has fired.
+
+so if the player has the double jump component, then ground-pounding becomes
+available as a component.
+
+how it would work is, the player is given a fast downwards momentum, and a
+ray is attached to the player facing downwards.
+
+while ground-pounding, if there is a ray intersection then it interacts
+with the interactible.

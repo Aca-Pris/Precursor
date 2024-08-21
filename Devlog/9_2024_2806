@@ -1,0 +1,10 @@
+I want an item that acts like a bonfire/site of grace style thing, but I want
+the item to be carryable, droppable, react to physics etc.
+
+the idea is this object can be placed in an otherwise impossible to reach
+location
+
+such as dropped from the "bottom" of the bottomless cave, and landing on
+one of the lower islands below.
+
+this allows for it to be fast-travelled too. 
